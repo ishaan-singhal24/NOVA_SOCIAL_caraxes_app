@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "470634687421",
+    "project_id": "nova-social---dev",
+    "storage_bucket": "nova-social---dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470634687421:android:e571f9da9b256dff3400d4",
+        "android_client_info": {
+          "package_name": "club.nova_social.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470634687421-3kf6hb21m3kifbeoa3lgm37i9vpgmkv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "6fa70c5ac5b6ae0cafa9150adc48b61ea42574cd"
+          }
+        },
+        {
+          "client_id": "470634687421-4a86u27pnamf87hmj7hgdg0sjg5kscbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "05007bb15cd51175a6c93b33f43276be4fa4dcc3"
+          }
+        },
+        {
+          "client_id": "470634687421-cbuva1qaqt09uldlsmuojc641nv9fik1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "e3239ecd396c3557f51fc0ddeb46cbfbc2771984"
+          }
+        },
+        {
+          "client_id": "470634687421-gcmduht8q5235oed44pn9v5p7snm6f08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "b36bb8802ab21c8b1c21ec9865d2c48a55596d4a"
+          }
+        },
+        {
+          "client_id": "470634687421-j9v7csgt8voqrgu6epq9j0rm0diontt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "818e8518e2bc5740e62aedc89d17060064785094"
+          }
+        },
+        {
+          "client_id": "470634687421-lqcitfqole8b3hvncrodu9l6kh9pcdch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "12c0e108b8914b1527d9604db33255ac8ff8a49f"
+          }
+        },
+        {
+          "client_id": "470634687421-rol1j6jr6bo4cu2sc6s5o1jp2t8oimql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.nova_social.android.dev",
+            "certificate_hash": "ba6afbaaa54f26ef14348ad53acb8c5449c64e24"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysSHGTLRDgIWFtdVAa9ds8Na5U_8C5lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470634687421-2bi0g8um1e4ks8b5qpdrpgpqb2lv856a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470634687421-fb78j71mh4q9uqt1dl05p2eg31umse4o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novaSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

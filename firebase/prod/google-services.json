@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "899427589392",
+    "project_id": "nova-social-b4f05",
+    "storage_bucket": "nova-social-b4f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899427589392:android:eae157fa9bd0e27b451995",
+        "android_client_info": {
+          "package_name": "club.nova_social.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtpmuDai8C8sXPGQjcsR1XTz5tiKkVtKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899427589392-dt630v5rkkj4jkcjgi3h8l7a4po3of11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899427589392-0v1jiv4la1ejpfavdps29b7pe9srpbct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.novaSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

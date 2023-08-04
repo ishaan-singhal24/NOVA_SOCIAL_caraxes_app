@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>470634687421-guvldcca3utt9h8a7re7n89p9peeabas.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.470634687421-guvldcca3utt9h8a7re7n89p9peeabas</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>470634687421-3kf6hb21m3kifbeoa3lgm37i9vpgmkv5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAkQ6yEhn4i3YfWxFR5rFcWANuTQI-Usas</string>
+	<key>GCM_SENDER_ID</key>
+	<string>470634687421</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>club.novasocial.dev</string>
+	<key>PROJECT_ID</key>
+	<string>nova-social---dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nova-social---dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:470634687421:ios:aa3d4deb85b1bdaf3400d4</string>
+</dict>
+</plist>

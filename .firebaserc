@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "nova-social-b4f05"
+  },
+  "targets": {
+    "nova-social-b4f05": {
+      "hosting": {
+        "staging": [
+          "staging-build"
+        ],
+        "prod": [
+          "nova-social-b4f05"
+        ]
+      }
+    }
+  }
+}

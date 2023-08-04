@@ -1,0 +1,31 @@
+// // To launch chrome web on defined port
+
+{   
+ "version": "0.2.0",
+ "configurations": [
+    {
+      "name": "Flutter",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "chrome","--web-port", "7357"],
+    },
+    {
+      "name": "dev mobile",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+          "--flavor", "dev",
+          "--dart-define", "flavor=dev"
+      ]
+    },
+    {
+      "name": "prod mobile",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+          "--flavor", "prod",
+          "--dart-define", "flavor=prod"
+      ]
+    },
+  ],
+}
